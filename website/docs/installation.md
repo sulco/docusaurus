@@ -74,7 +74,7 @@ yarn create docusaurus
 ```
 
 ```mdx-code-block
-</TabItem>
+</TabItem>fdsadfa
 <TabItem value="pnpm">
 ```
 
